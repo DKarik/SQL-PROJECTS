@@ -1,0 +1,181 @@
+transaction_id,order_date,customer_id,customer_name,product,category,quantity,unit_price,sales_amount,city,sales_channel,order_status
+T0001,2025-05-06,C1015,Faith Wanjiku,USB-C Hub,Accessories,1,32.00,32.00,Nairobi,Phone,Cancelled
+T0002,2025-01-16,C1006,Kevin Kiptoo,USB-C Hub,Accessories,4,30.40,121.60,Mombasa,Phone,Cancelled
+T0003,2025-08-03,C1015,Peter Kamau,Wireless Mouse,Accessories,3,19.43,58.29,Eldoret,Store,Completed
+T0004,2025-05-23,C1010,Kevin Kiptoo,Laptop Stand,Office,4,27.50,110.00,Kisumu,Online,Completed
+T0005,2025-05-16,C1003,Samuel Kariuki,Keyboard,Accessories,1,24.99,24.99,Nakuru,Phone,Completed
+T0006,03/14/2025,C1037,Kevin Kiptoo,Keyboard,Accessories,1,24.99,24.99,Nairobi,Online,Completed
+T0007,2025-02-21,C1025,Mary Njeri,Notebook Pack,Stationery,20,6.75,135.00,Nakuru,Phone,Completed
+T0008,2025-05-17,,Winnie Achieng,Laptop Stand,Office,2,27.50,55.00,Nairobi,Phone,Completed
+T0009,2025-08-25,C1025,Mary Njeri,Desk Lamp,Office,5,21.50,107.50,Eldoret,Online,Completed
+T0010,2025-06-11,C1026,Mary Njeri,Wireless Mouse,Accessories,2,17.57,35.14,Nairobi,Online,Cancelled
+T0011,2025-07-22,C1042,Peter Kamau,External SSD,Storage,2,89.00,178.00, nairobi ,Store,Completed
+T0012,2025-05-15,C1038,Grace Chebet,Office Chair,Furniture,5,152.25,761.25,Eldoret,Store,Completed
+T0013,2025-09-18,C1032,Brian Mwangi,Office Chair,Furniture,100,,14500.00,Nairobi,Online,Completed
+T0014,2025-02-02,C1025,Grace Chebet,Laptop Stand,Office,5,27.50,137.50,Eldoret,Store,Cancelled
+T0015,2025-02-28,C1044, ,Notebook Pack,Stationery,20,6.41,128.20,Kisumu,Phone,Completed
+T0016,2025-08-21,C1001,Samuel Kariuki,USB-C Hub,Accessories,2,32.00,64.00,Kisumu,Phone,Completed
+T0017,2025-09-17,C1039,Kevin Kiptoo,Desk Lamp,Office,-2,21.50,215.00,Mombasa,Store,Completed
+T0018,2025-01-01,C1039,Daniel Ouma,Desk Lamp,Office,15,22.57,338.55,Nakuru,Online,Completed
+T0019,2025-05-03,C1004,Kevin Kiptoo,External SSD,Storage,8,89.00,712.00,Eldoret,online,Completed
+T0020,2025-03-06,C1009,Winnie Achieng,Monitor,Electronics,5,187.95,939.75,Nakuru,Phone,Completed
+T0021,2025-08-05,C1014,Lucy Atieno,Notebook Pack,Stationery,3,7.09,21.27,Mombasa,Phone,Completed
+T0022,2025-08-13,C1034,Peter Kamau,Keyboard,Accessories,100,24.99,2499.00,MOMBASA,Online,Completed
+T0023,2025-10-11,C1015,John Mutua,USB-C Hub,Accessories,2,33.60,67.20,Mombasa,Online,Completed
+T0024,2025-06-19,C1005,Lucy Atieno,Wireless Mouse,Accessories,2,17.57,35.14,Mombasa,Store,Pending
+T0025,2025-10-23,C1031,Kevin Kiptoo,Office Chair,Furniture,3,152.25,456.75,Nakuru,Store,completed
+T0026,2025-07-01,C1028,Grace Chebet,USB-C Hub,Accessories,1,32.00,32.00,Nakuru,Phone,Completed
+T0027,15/04/2025,C1016,Kevin Kiptoo,USB-C Hub,Accessories,1,32.00,32.00,Mombasa,Phone,Pending
+T0028,2025-08-25,C1016,Brian Mwangi,Laptop Stand,Office,3,27.50,82.50,Nakuru,Phone,Completed
+T0029,2025-01-08,,Kevin Kiptoo,Wireless Mouse,Accessories,4,19.43,77.72,Mombasa,Store,Pending
+T0030,2025-01-31,C1011,Grace Chebet,Monitor,Electronics,2,179.00,358.00,Nairobi,Store,Completed
+T0031,2025-09-07,C1010,Kevin Kiptoo,Monitor,Electronics,2,187.95,375.90,Kisumu,Online,Completed
+T0032,2025-06-10,C1004,Amina Otieno,Webcam,Furniture,5,46.55,232.75,Eldoret,Store,Cancelled
+T0033,2025-02-11,C1012,Brian Mwangi,Desk Lamp,Office,1,22.57,22.57,Eldoret,Online,Completed
+T0034,2025-05-07,C1038,John Mutua,Keyboard,Accessories,1,26.24,26.24,Nairobi, STORE ,Completed
+T0035,2025-09-25,C1021,Mary Njeri,Keyboard,Accessories,4,26.24,104.96,Mombasa,Phone,Completed
+T0035,2025-09-25,C1021,Mary Njeri,Keyboard,Accessories,4,26.24,104.96,Mombasa,Phone,Completed
+T0037,2025-02-07,C1035,Kevin Kiptoo,Webcam,Electronics,100,46.55,4655.00,Eldoret,Store,Completed
+T0038,2025-07-09,C1019,Faith Wanjiku,External SSD,Storage,8,89.00,712.00,Nakuru,Phone,Completed
+T0039,2025-01-05,C1043,Lucy Atieno,Webcam,Electronics,20,51.45,1029.00,Kisumu,Phone,Completed
+T0040,2025-10-11,C1010,Mary Njeri,Laptop Stand,Office,0,26.12,52.24,Kisumu,Phone,Completed
+T0041,2025-09-16,C1032,Mary Njeri,External SSD,Storage,2,89.00,178.00,Nairobi,Online,Pending
+T0042,2025-03-08,C1041,Mary Njeri,Notebook Pack,Stationery,1,6.75,6.75,Mombasa,Phone,Pending
+T0043,2025-01-05,C1008,Brian Mwangi,Desk Lamp,Office,4,22.57,90.28,Kisumu ,Phone,Completed
+T0044,2025-08-09,C1009,Amina Otieno,External SSD,Storage,4,89.00,356.00,Kisumu,Store,Completed
+T0045,2025-02-22,C1023,Lucy Atieno,External SSD,Storage,2,89.00,178.00,Nakuru,Phone,Completed
+T0046,2025-07-31,C1002,Faith Wanjiku,Office Chair,Furniture,8,145.00,1160.00,Kisumu,Store,Completed
+T0047,2025-07-15,C1003,Peter Kamau,Notebook Pack,Stationery,1,6.41,6.41,Mombasa,Online, PENDING 
+T0048,2025-04-25,C1002,Winnie Achieng,External SSD,Storage,2,89.00,178.00,Mombasa,Store,Completed
+T0049,2025.05.09,C1042,Lucy Atieno,Notebook Pack,Stationery,8,6.75,54.00,Nakuru,Phone,Cancelled
+T0050,2025-05-14,C1012,John Mutua,External SSD,Storage,15,84.55,1268.25,Kisumu,Online,Completed
+T0051,2025-08-12,C1039,Lucy Atieno,Webcam,Electronics,3,49.00,147.00,Nairobi,Store,Cancelled
+T0052,2025-01-01,C1034,Lucy Atieno,Office Chair,Furniture,2,145.00,290.00,Mombasa,Store,Pending
+T0053,2025-06-10,C1043,Brian Mwangi,USB-C Hub,Accessories,15,32.00,480.00,Kisumu,Phone,Completed
+T0054,2025-10-11,C1009,Kevin Kiptoo,Keyboard,Accessories,2,24.99,49.98,Nakuru,Phone,Pending
+T0055,2025-07-27,C1036,Amina Otieno,Laptop Stand,Office,4,27.50,110.00,Kisumu,Store,Completed
+T0056,2025-06-14,C1030,Peter Kamau,Keyboard,Accessories,5,26.24,131.20,nAkUrU,Phone,Completed
+T0057,2025-02-13,C1019,Lucy Atieno,Desk Lamp,Office,3,21.50,64.50,Eldoret,Store,Completed
+T0058,2025-04-12,C1010,Amina Otieno,Office Chair,Furniture,8500,145.00,580.00,Nairobi,Online,Pending
+T0059,2025-08-22,C1027,Winnie Achieng,Webcam,Electronics,8,46.55,372.40,Eldoret,Online,Pending
+T0060,2025-01-03,C1007,Grace Chebet,Monitor,Electronics,3,179.00,537.00,Mombasa,Online,Cancelled
+T0061,2025-03-04,C1030,Faith Wanjiku,Monitor,Electronics,1,179.00,179.00,Nakuru,Phone,Cancelled
+T0062,2025-09-16,C1028,Lucy Atieno,Desk Lamp,Office,4,21.50,86.00,Nakuru,PHONE,Pending
+T0063,2025-05-22,C1034,Peter Kamau,Monitor,Electronics,2,179.00,358.00,Mombasa,Store,Pending
+T0064,2025-05-20,C1022,Daniel Ouma,USB-C Hub,Accessories,4,32.00,128.00,Eldoret,Online,Completed
+T0065,2025-04-20,,Grace Chebet,Laptop Stand,Office,2,27.50,55.00,Nakuru,Store,Cancelled
+T0066,2025-08-04,C1025,John Mutua,Monitor,Electronics,3,179.00,537.00,Nairobi,Phone,Pending
+T0067,2025-06-02,C1025,Grace Chebet,Monitor,Electronics,1,-12.50,179.00,Eldoret,Phone,Cancelled
+T0068,2025-04-23,C1018,Grace Chebet,Webcam,Electronics,10,49.00,490.00,Nakuru,Online,Pending
+T0069,2025-03-26,C1030,Faith Wanjiku,External SSD,Storage,4,89.00,356.00,Eldoret,Phone,Completed
+T0070,2025-02-12,C1042,Grace Chebet,Keyboard,Accessories,4,23.74,94.96,Mombasa,Store,Completed
+T0071,2025-04-19,C1030,Daniel Ouma,Wireless Mouse,Accessories,2,18.50,37.00,Kisumu,Store,Completed
+T0072,2025-08-29,C1002,Samuel Kariuki,Keyboard,Accessories,2,23.74,47.48,Eldoret,Online,Completed
+T0073,2025-01-16,C1016,Kevin Kiptoo,Office Chair,Furniture,4,137.75,551.00,Nairobi,Phone,Completed
+T0074,2025-10-16,C1014, ,Office Chair,Furniture,1,137.75,137.75,Kisumu,Store,Completed
+T0075,2025-03-25,C1020,Brian Mwangi,Webcam,Electronics,4,46.55,186.20,Eldoret,Online,Completed
+T0076,2025-07-23,C1013,Brian Mwangi,Webcam,Electronics,4,49.00,196.00,Eldoret,Phone,Completed
+T0077,2025-03-03,C1037,Amina Otieno,USB-C Hub,Accessories,4,32.00,128.00,Kisumu,Phone,Pending
+T0078,2025-01-07,C1027,Peter Kamau,External SSD,Storage,1,89.00,89.00,Nairobi,Store,Completed
+T0079,2025-04-01,C1034,Winnie Achieng,Monitor,Electronics,4,179.00,716.00,Kisumu,Phone,Cancelled
+T0080,2025-05-18,C1021,Kevin Kiptoo,Monitor,Electronics,3,187.95,563.85,ELDORET,Store,Pending
+T0081,2025-07-14,C1022,Amina Otieno,Office Chair,Furniture,5,152.25,761.25,Nakuru,Store,CANCELLED
+T0082,2025-06-24,C1018,John Mutua,Monitor,Electronics,2,179.00,358.00,Kisumu,Phone,Completed
+T0083,2025-05-04,C1027,Peter Kamau,Desk Lamp,Office,15,20.43,306.45,Eldoret,Online,Pending
+T0084,2025-02-17,C1019,Kevin Kiptoo,Monitor,Electronics,3,170.05,510.15,Nakuru,Phone,Completed
+T0085,2025-08-31,C1036,Lucy Atieno,Notebook Pack,Stationery,4,6.75,,Kisumu,Store,Cancelled
+T0086,2025-05-19,C1020,Mary Njeri,External SSD,Storage,2,89.00,178.00,Mombasa,Online,Completed
+T0087,2025-04-05,C1013,Kevin Kiptoo,External SSD,Storage,1,93.45,93.45,Nakuru,Store,Cancelled
+T0088,2025-04-10,C1019,Kevin Kiptoo,Desk Lamp,Office,4,20.43,81.72,Kisumu,Online,Completed
+T0089,2025-05-21,C1003,Amina Otieno,Wireless Mouse,Accessories,4,18.50,74.00,Eldoret,Store,Completed
+T0089,2025-05-21,C1003,Amina Otieno,Wireless Mouse,Accessories,4,18.50,74.00,Eldoret,Store,Completed
+T0091,2025-09-02,C1008,Brian Mwangi,Laptop Stand,Office,15,27.50,412.50,Nakuru,Store,Completed
+T0092,7 Aug 2025,C1010,John Mutua,Webcam,Electronics,4,46.55,186.20,Kisumu,Online,Completed
+T0093,2025-04-26,C1034,Grace Chebet,USB-C Hub,Accessories,3,32.00,96.00,Nakuru,Store,Completed
+T0094,2025-10-19,C1040,Amina Otieno,Webcam,Electronics,100,49.00,4900.00,Eldoret,Phone,Completed
+T0095,2025-02-11,C1011,Kevin Kiptoo,Office Chair,Furniture,4,145.00,580.00,Mombasa,Phone,Completed
+T0096,2025-08-29,C1019,Amina Otieno,Laptop Stand,Office,1,27.50,27.50,Mombasa,OnLine,Completed
+T0097,2025-05-16,C1041,John Mutua,Monitor,Electronics,1,179.00,179.00,Mombasa,Store,Completed
+T0098,2025-05-17,C1010,Brian Mwangi,Desk Lamp,Office,2,21.50,43.00,Nairobi,Online,Completed
+T0099,2025-05-28,C1029,Brian Mwangi,Webcam,Electronics,5,0,257.25,Nakuru,Phone,Completed
+T0100,2025-10-04,C1032,Peter Kamau,Keyboard,Accessories,15,26.24,393.60,Nairobi,Phone,Completed
+T0101,2025-05-09,C1002,Brian Mwangi,Keyboard,Accessories,5,26.24,131.20,Mombasa,Phone,Cancelled
+T0102,2025-10-23,C1003,Faith Wanjiku,Webcam,Electronics,15,49.00,735.00,Nakuru,Phone,Pending
+T0103,2025-08-12,C1041,Peter Kamau,Notebook Pack,Stationery,1,7.09,7.09,Nairobi,Store,Completed
+T0104,2025-03-24,,Grace Chebet,Keyboard,Accessories,2,23.74,47.48,Nakuru,Store,Pending
+T0105,2025-06-11,C1017,Daniel Ouma,Desk Lamp,Office,1,20.43,20.43,Nairobi,Store,Cancelled
+T0106,2025-08-25,C1027,Amina Otieno,Wireless Mouse,Accessories,4,19.43,77.72,Mombasa,Phone,Completed
+T0107,2025-01-27,C1014,Mary Njeri,Webcam,Electronics,5,49.00,245.00,Eldoret,Online,Completed
+T0108,2025-03-04,C1002,Winnie Achieng,Monitor,Electronics,8,179.00,1432.00,Eldoret,Online,Completed
+T0109,2025-07-28,C1006,Kevin Kiptoo,Notebook Pack,Stationery,3,7.09,21.27,Nairobi,Store,Completed
+T0110,2025-09-18,C1018,Grace Chebet,Laptop Stand,Office,3,27.50,0.01,Nakuru,Store,Completed
+T0111,2025-04-08,C1039,Lucy Atieno,Monitor,Electronics,3,179.00,537.00,Mombasa,Online,Completed
+T0112,2025-05-17,C1001,Mary Njeri,Keyboard,Accessories,2,26.24,52.48,Kisumu,Phone,Cancelled
+T0113,2025-10-03,C1031,Daniel Ouma,Monitor,Electronics,8,179.00,1432.00,Kisumu,Phone,Cancelled
+T0114,2025-04-07,C1045,Kevin Kiptoo,Keyboard,Accessories,3,24.99,74.97,Eldoret,Store,Completed
+T0115,2025-07-15,C1025,Winnie Achieng,Keyboard,Accessories,1,24.99,24.99,Mombasa,Store,Completed
+T0116,2025-06-19,C1007,Peter Kamau,Laptop Stand,Office,3,28.88,86.64,Nairobi,Phone,Pending
+T0117,2025-03-21,C1005,Peter Kamau,Wireless Mouse,Accessories,5,18.50,92.50,Kisumu,Store,Cancelled
+T0118,2025-10-01,C1025,Daniel Ouma,Keyboard,Accessories,4,24.99,99.96,Nakuru,Phone,Complete
+T0119,2025-04-27,C1006,Grace Chebet,Webcam,Electronics,1,49.00,49.00,Nairobi,Phone,Completed
+T0120,2025-01-15,C1003,Daniel Ouma,Monitor,Electronics,1,179.00,179.00,Nairobi,Store,Completed
+T0121,2025-09-29,C1027,John Mutua,External SSD,Storage,3,89.00,267.00,Mombasa,Online,Completed
+T0122,2025-05-04,C1032,John Mutua,USB-C Hub,Accessories,4,32.00,128.00,Mombasa,Online,Pending
+T0123,2025/09/21,C1019,Winnie Achieng,Notebook Pack,Stationery,3,6.41,19.23,Eldoret,Online,Completed
+T0124,2025-06-03,C1041,Grace Chebet,Monitor,Electronics,15,187.95,2819.25,Kisumu,Store,Completed
+T0125,2025-02-24,C1016,Grace Chebet,Office Chair,Furniture,100,145.00,14500.00,Eldoret,Store,Cancelled
+T0126,2025-01-12,C1043,Grace Chebet,Notebook Pack,Stationery,100,6.75,675.00,Kisumu,Online,Cancelled
+T0127,2025-05-27,C1015,John Mutua,Wireless Mouse,Accessories,10,18.50,185.00,Kisumu,Online,Completed
+T0128,2025-02-19,C1041,Winnie Achieng,Webcam,Electronics,2,49.00,98.00,Nairobi,Store,Pending
+T0129,2025-02-16,C1019,Daniel Ouma,Wireless Mouse,Accessories,4,18.50,74.00,Nakuru,Online,Completed
+T0130,2025-09-29,C1033,Mary Njeri,Laptop Stand,Office,5,27.50,137.50,Mombasa,Store,Pending
+T0131,2025-02-28,C1030,Brian Mwangi,Notebook Pack,Stationery,5,6.75,33.75,Mombasa,Online,Pending
+T0131,2025-02-28,C1030,Brian Mwangi,Notebook Pack,Stationery,5,6.75,33.75,Mombasa,Online,Pending
+T0133,2025-02-25,C1044,Kevin Kiptoo,Notebook Pack,Stationery,4,6.75,27.00,Nakuru,Online,Cancelled
+T0134,2025-04-24,C1042,Brian Mwangi,Desk Lamp,Office,2,22.57,45.14,Nakuru,Phone,Completed
+T0135,2025-01-20,C1020,Peter Kamau,Keyboard,Accessories,1,23.74,23.74,Nairobi,Online,Completed
+T0136,2025-07-09,C1043,Samuel Kariuki,Desk Lamp,Office,1,21.50,21.50,Eldoret,Store,Cancelled
+T0137,2025-09-08,C1040,Grace Chebet,Laptop Stand,Office,8,26.12,208.96,Kisumu,Online,Completed
+T0138,2025-07-05,C1007,Winnie Achieng,Office Chair,Furniture,3,145.00,435.00,Kisumu,Phone,Completed
+T0139,2025-03-04,C1030,Brian Mwangi,Wireless Mouse,Accessories,3,18.50,55.50,Mombasa,Phone,Cancelled
+T0140,2025-05-05,C1009,John Mutua,Wireless Mouse,Accessories,1,18.50,18.50,Mombasa,Online,Cancelled
+T0141,2025-06-18,C1010,John Mutua,Office Chair,Furniture,4,145.00,580.00,Nairobi,Store,Completed
+T0142,2025-02-26,C1043,Amina Otieno,Laptop Stand,Office,3,27.50,82.50,Mombasa,Online,Completed
+T0143,2025-03-31,C1017,Amina Otieno,Office Chair,Furniture,4,137.75,551.00,Mombasa,Phone,Pending
+T0144,2025-09-01,C1029,Daniel Ouma,Desk Lamp,Office,1,20.43,20.43,Eldoret,Phone,Completed
+T0145,2025-01-23,C1043,Lucy Atieno,Monitor,Electronics,3,187.95,999999.99,Kisumu,Store,Completed
+T0146,2025-08-07,C1044,Brian Mwangi,Wireless Mouse,Accessories,100,18.50,1850.00,Nakuru,Phone,Pending
+T0147,2025-03-17,C1005,Faith Wanjiku,USB-C Hub,Accessories,10,32.00,320.00,Kisumu,Phone,Cancelled
+T0148,2025-09-29,C1019,Peter Kamau,Desk Lamp,Office,4,21.50,86.00,Eldoret,Phone,Pending
+T0149,2025-10-10,C1014,Grace Chebet,USB-C Hub,Accessories,5,30.40,152.00,Nakuru,Online,Pending
+T0150,2025-08-01,C1007,Daniel Ouma,External SSD,Storage,8,89.00,712.00,Nakuru,Store,Completed
+T0151,2025-02-04,C1006,Brian Mwangi,External SSD,Storage,15,89.00,1335.00,Nairobi,Store,Completed
+T0152,2025-01-31,C1038,Lucy Atieno,External SSD,Storage,5,93.45,467.25,Nairobii,Store,Completed
+T0153,2025-01-27,C1019,John Mutua,Keyboard,Accessories,2,24.99,49.98,Kisumu,Store,Completed
+T0154,2025-09-04,C1015,Brian Mwangi,Webcam,Electronics,3,49.00,147.00,Kisumu,Phone,Completed
+T0155,2025-04-26,C1028,Lucy Atieno,USB-C Hub,Accessories,5,33.60,168.00,Eldoret,Phone,Cancelled
+T0156,2025-01-15,C1012,Mary Njeri,Wireless Mouse,Accessories,4,18.50,74.00,Kisumu,Store,Completed
+T0157,2025-10-17,C1043,Grace Chebet,Wireless Mouse,Accessories,1,18.50,18.50,Nairobi,Online,Completed
+T0158,2025-07-12,C1027,Peter Kamau,USB-C Hub,Accessories,5,32.00,160.00,Kisumu,Online,Completed
+T0159,2025-02-13,C1004,Faith Wanjiku,Notebook Pack,Stationery,5,7.09,35.45,Mombasa,Phone,Completed
+T0160,2025-09-06,C1039,Peter Kamau,USB-C Hub,Accessories,2,32.00,64.00,Nakuru,Store,Completed
+T0161,2025-02-26,C1019,Winnie Achieng,Desk Lamp,Office,1,21.50,21.50,Eldoret,Store,Cancelled
+T0162,2025-01-29,C1001,Kevin Kiptoo,Notebook Pack,Stationery,1,6.75,6.75,Kisumu,Online,Completed
+T0163,2025-01-04,C1032,Samuel Kariuki,Notebook Pack,Stationery,2,6.41,12.82,Nakuru,Online,Completed
+T0164,2025-09-14,C1036,Winnie Achieng,Keyboard,Accessories,3,24.99,74.97,Kisumu,Online,Pending
+T0165,2025-02-09,C1021,John Mutua,Wireless Mouse,Accessories,3,18.50,55.50,Nakuru,Phone,Pending
+T0166,2025-01-11,C1021,Faith Wanjiku,Keyboard,Accessories,2,24.99,49.98,Eldoret,Store,Completed
+T0167,2025-05-05,C1028,John Mutua,Keybord,Accessories,3,30.40,91.20,Nakuru,Phone,Completed
+T0168,2025-04-24,C1022,Faith Wanjiku,Keyboard,Accessories,8,24.99,199.92,Nairobi,Phone,Completed
+T0169,2025-06-29,C1042,Faith Wanjiku,Desk Lamp,Office,3,21.50,64.50,Mombasa,Online,Completed
+T0170,2025-03-20,C1042,Brian Mwangi,Notebook Pack,Stationery,2,7.09,14.18,Mombasa,Phone,Pending
+T0171,2025-08-18,C1044,John Mutua,Monitor,Electronics,5,187.95,939.75,Eldoret,Store,Completed
+T0172,2025-08-15,C1041,Mary Njeri,Laptop Stand,Office,3,27.50,82.50,Kisumu,Phone,Completed
+T0173,2025-08-25,C1029,Amina Otieno,External SSD,Storage,3,89.00,267.00,Nairobi,Store,Completed
+T0174,2025-09-17,C1025,Peter Kamau,USB-C Hub,Accessories,4,30.40,121.60,Eldoret,Phone,Completed
+T0175,2025-04-07,C1021,John Mutua,Monitor,Electronics,10,187.95,1879.50,Nakuru,Phone,Completed
+T0176,2025-02-13,C1033,Winnie Achieng,Wireless Mouse,Accessories,3,18.50,55.50,Mombasa,Online,Completed
+T0177,2025-09-25,C1040,Faith Wanjiku,Monitor,Electronics,100,187.95,18795.00,Kisumu,Store,Completed
+T0178,2025-01-27,C1041,Winnie Achieng,Keyboard,Accessories,3,24.99,74.97,Kisumu,Online,Completed
+T0179,2025-05-26,C1017,Samuel Kariuki,USB-C Hub,Accessories,3,32.00,96.00,Eldoret,Online,Completed
+T0180,2025-06-29,C1020,Winnie Achieng,USB-C Hub,Accessories,4,32.00,128.00,Nakuru,Online,Cancelled
