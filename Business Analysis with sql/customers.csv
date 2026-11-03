@@ -1,0 +1,251 @@
+customer_id,first_name,last_name,gender,city,region,signup_date
+C0001,Irene,Wambui,Female,Mombasa,Coast,2023-01-26
+C0002,David,Kimani,Female,Kisumu,Nyanza,2025-01-24
+C0003,Amina,Mwangi,Female,Nyeri,Central,2023-02-02
+C0004,Wanjiku,Otieno,Female,Nakuru,Rift Valley,2024-06-01
+C0005,Peter,Maina,Male,Nyeri,Central,2023-08-14
+C0006,Faith,Chebet,Male,Nairobi,Nairobi,2025-02-16
+C0007,Esther,Wambui,Male,Thika,Central,2023-10-12
+C0008,Moses,Mwangi,Male,Mombasa,Coast,2023-04-05
+C0009,Irene,Kiptoo,Female,Thika,Central,2024-09-10
+C0010,David,Achieng,Male,Machakos,Eastern,2024-07-03
+C0011,James,Muli,Male,Mombasa,Coast,2024-07-19
+C0012,Carol,Otieno,Female,Nakuru,Rift Valley,2024-12-22
+C0013,Hassan,Muli,Female,Eldoret,Rift Valley,2023-03-23
+C0014,Peter,Kimani,Male,Nyeri,Central,2023-10-12
+C0015,Linda,Wambui,Male,Kisumu,Nyanza,2024-01-15
+C0016,Faith,Mutua,Female,Mombasa,Coast,2024-09-15
+C0017,Moses,Kamau,Female,Kisumu,Nyanza,2024-04-18
+C0018,Brian,Wambui,Female,Thika,Central,2025-05-13
+C0019,Irene,Mwangi,Female,Thika,Central,2024-02-15
+C0020,Ruth,Ochieng,Male,Thika,Central,2023-08-06
+C0021,Esther,Wambui,Male,Kisumu,Nyanza,2023-09-29
+C0022,Moses,Njoroge,Female,Nyeri,Central,2024-08-20
+C0023,Ruth,Mwangi,Female,Kisumu,Nyanza,2024-06-05
+C0024,Faith,Kiptoo,Male,Mombasa,Coast,2023-06-06
+C0025,Moses,Maina,Male,Mombasa,Coast,2024-01-30
+C0026,Amina,Kimani,Female,Eldoret,Rift Valley,2024-07-20
+C0027,Kevin,Mwangi,Male,Eldoret,Rift Valley,2025-02-26
+C0028,Peter,Otieno,Male,Nyeri,Central,2023-06-11
+C0029,David,Muli,Male,Kisumu,Nyanza,2024-06-03
+C0030,Linda,Kiptoo,Female,Nakuru,Rift Valley,2023-06-06
+C0031,Kevin,Abdi,Female,Nairobi,Nairobi,2024-09-05
+C0032,James,Wambui,Female,Mombasa,Coast,2024-01-07
+C0033,Victor,Mwangi,Female,Nakuru,Rift Valley,2025-06-18
+C0034,Carol,Kiptoo,Female,Machakos,Eastern,2025-04-15
+C0035,Ruth,Mutua,Female,Kisumu,Nyanza,2024-11-06
+C0036,Wanjiku,Ochieng,Female,Eldoret,Rift Valley,2024-06-24
+C0037,James,Ochieng,Male,Nakuru,Rift Valley,2024-12-31
+C0038,Peter,Mwangi,Female,Machakos,Eastern,2024-06-13
+C0039,Kevin,Otieno,Female,Nakuru,Rift Valley,2023-03-07
+C0040,Carol,Chebet,Female,Nakuru,Rift Valley,2023-01-08
+C0041,Brian,Muli,Male,Nakuru,Rift Valley,2023-03-11
+C0042,Hassan,Kamau,Male,Mombasa,Coast,2024-06-10
+C0043,Esther,Chebet,Male,Nakuru,Rift Valley,2024-07-06
+C0044,Ruth,Kiptoo,Male,Nakuru,Rift Valley,2025-03-14
+C0045,David,Kimani,Male,Nakuru,Rift Valley,2023-04-07
+C0046,Nancy,Abdi,Female,Thika,Central,2024-03-09
+C0047,Moses,Chebet,Male,Mombasa,Coast,2023-03-04
+C0048,George,Wambui,Male,Mombasa,Coast,2023-09-12
+C0049,Faith,Kamau,Male,Kisumu,Nyanza,2024-03-08
+C0050,Carol,Abdi,Female,Nakuru,Rift Valley,2025-06-14
+C0051,Tracy,Muli,Female,Nairobi,Nairobi,2024-10-29
+C0052,Hassan,Kariuki,Male,Mombasa,Coast,2025-02-10
+C0053,George,Muli,Male,Machakos,Eastern,2024-05-07
+C0054,Moses,Otieno,Male,Nairobi,Nairobi,2023-06-18
+C0055,Peter,Kamau,Male,Eldoret,Rift Valley,2025-03-13
+C0056,George,Kamau,Female,Machakos,Eastern,2023-06-08
+C0057,Tracy,Otieno,Male,Nairobi,Nairobi,2024-08-16
+C0058,Victor,Abdi,Female,Nairobi,Nairobi,2023-02-21
+C0059,Carol,Muli,Female,Nairobi,Nairobi,2024-06-04
+C0060,Carol,Kimani,Female,Mombasa,Coast,2024-09-01
+C0061,Victor,Wambui,Female,Nyeri,Central,2023-05-03
+C0062,Victor,Maina,Male,Mombasa,Coast,2024-03-05
+C0063,Kevin,Wambui,Male,Eldoret,Rift Valley,2023-07-29
+C0064,James,Abdi,Male,Nyeri,Central,2023-05-15
+C0065,Peter,Maina,Female,Mombasa,Coast,2023-01-10
+C0066,George,Mutua,Male,Mombasa,Coast,2024-07-04
+C0067,Carol,Achieng,Female,Kisumu,Nyanza,2023-12-24
+C0068,Faith,Abdi,Male,Thika,Central,2023-10-19
+C0069,Tracy,Kamau,Female,Nairobi,Nairobi,2024-11-14
+C0070,David,Achieng,Female,Kisumu,Nyanza,2023-09-28
+C0071,James,Maina,Female,Kisumu,Nyanza,2023-10-06
+C0072,Irene,Mutua,Male,Thika,Central,2023-07-28
+C0073,Brian,Mwangi,Male,Eldoret,Rift Valley,2025-05-16
+C0074,Amina,Njoroge,Female,Eldoret,Rift Valley,2023-02-15
+C0075,Peter,Mutua,Male,Eldoret,Rift Valley,2023-06-15
+C0076,Carol,Achieng,Female,Nairobi,Nairobi,2023-04-25
+C0077,Linda,Maina,Female,Nairobi,Nairobi,2025-05-04
+C0078,Brian,Kamau,Male,Nyeri,Central,2023-05-11
+C0079,George,Kimani,Female,Nairobi,Nairobi,2024-01-02
+C0080,Tracy,Achieng,Male,Mombasa,Coast,2023-12-29
+C0081,Faith,Kiptoo,Female,Kisumu,Nyanza,2023-08-31
+C0082,Faith,Chebet,Male,Nyeri,Central,2023-01-26
+C0083,Hassan,Kamau,Female,Nyeri,Central,2025-04-01
+C0084,Brian,Muli,Male,Mombasa,Coast,2024-01-27
+C0085,Peter,Njoroge,Male,Nakuru,Rift Valley,2023-07-24
+C0086,Amina,Kimani,Female,Nakuru,Rift Valley,2023-08-17
+C0087,Irene,Muli,Female,Nyeri,Central,2023-12-03
+C0088,Samuel,Ochieng,Male,Eldoret,Rift Valley,2023-12-26
+C0089,Irene,Kariuki,Male,Nairobi,Nairobi,2023-04-29
+C0090,Wanjiku,Ochieng,Male,Nairobi,Nairobi,2023-04-22
+C0091,Wanjiku,Mutua,Female,Thika,Central,2024-03-22
+C0092,George,Kamau,Female,Nyeri,Central,2024-08-13
+C0093,Samuel,Achieng,Female,Nyeri,Central,2023-01-02
+C0094,Carol,Kimani,Male,Thika,Central,2024-03-17
+C0095,David,Chebet,Male,Thika,Central,2024-11-10
+C0096,Nancy,Njoroge,Male,Eldoret,Rift Valley,2024-11-13
+C0097,Esther,Wambui,Male,Eldoret,Rift Valley,2024-07-21
+C0098,Faith,Maina,Male,Nyeri,Central,2024-11-24
+C0099,Amina,Kamau,Male,Nyeri,Central,2024-07-15
+C0100,Victor,Maina,Male,Nakuru,Rift Valley,2024-03-16
+C0101,Peter,Kimani,Female,Machakos,Eastern,2024-03-28
+C0102,Faith,Kimani,Female,Machakos,Eastern,2025-03-23
+C0103,Wanjiku,Njoroge,Female,Eldoret,Rift Valley,2024-06-11
+C0104,James,Wambui,Female,Nakuru,Rift Valley,2024-11-19
+C0105,Brian,Wambui,Male,Kisumu,Nyanza,2023-01-26
+C0106,Nancy,Achieng,Female,Mombasa,Coast,2024-04-11
+C0107,Moses,Wambui,Female,Nyeri,Central,2024-05-21
+C0108,David,Kiptoo,Male,Nairobi,Nairobi,2025-02-07
+C0109,Samuel,Abdi,Female,Nakuru,Rift Valley,2023-06-30
+C0110,David,Abdi,Female,Nakuru,Rift Valley,2025-05-18
+C0111,Samuel,Mutua,Male,Machakos,Eastern,2024-11-14
+C0112,Samuel,Ochieng,Male,Machakos,Eastern,2024-09-19
+C0113,Ruth,Abdi,Male,Kisumu,Nyanza,2025-01-31
+C0114,Irene,Kiptoo,Male,Nakuru,Rift Valley,2025-05-10
+C0115,Peter,Mwangi,Male,Nakuru,Rift Valley,2023-10-09
+C0116,Kevin,Njoroge,Female,Nakuru,Rift Valley,2023-10-06
+C0117,Hassan,Ochieng,Female,Kisumu,Nyanza,2023-06-04
+C0118,Nancy,Ochieng,Male,Nakuru,Rift Valley,2023-03-07
+C0119,Brian,Wambui,Male,Machakos,Eastern,2024-03-01
+C0120,Victor,Chebet,Female,Nyeri,Central,2025-02-27
+C0121,Amina,Njoroge,Male,Nyeri,Central,2024-05-03
+C0122,Nancy,Mutua,Female,Nyeri,Central,2025-05-23
+C0123,Irene,Ochieng,Male,Machakos,Eastern,2023-08-13
+C0124,Kevin,Kimani,Male,Nairobi,Nairobi,2024-02-03
+C0125,Peter,Achieng,Female,Kisumu,Nyanza,2025-05-10
+C0126,Victor,Maina,Female,Nairobi,Nairobi,2024-02-08
+C0127,Nancy,Kariuki,Male,Mombasa,Coast,2024-10-20
+C0128,Irene,Ochieng,Male,Kisumu,Nyanza,2023-02-21
+C0129,Kevin,Njoroge,Male,Nakuru,Rift Valley,2024-04-10
+C0130,Nancy,Kamau,Female,Eldoret,Rift Valley,2025-02-09
+C0131,Tracy,Otieno,Male,Machakos,Eastern,2023-01-20
+C0132,Carol,Kiptoo,Female,Nakuru,Rift Valley,2024-10-27
+C0133,George,Muli,Female,Nairobi,Nairobi,2023-09-11
+C0134,Esther,Abdi,Female,Kisumu,Nyanza,2023-09-02
+C0135,Irene,Kiptoo,Male,Nakuru,Rift Valley,2024-04-21
+C0136,Wanjiku,Chebet,Female,Kisumu,Nyanza,2024-09-12
+C0137,David,Maina,Female,Kisumu,Nyanza,2023-11-15
+C0138,Moses,Ochieng,Female,Eldoret,Rift Valley,2024-08-12
+C0139,Hassan,Mwangi,Male,Mombasa,Coast,2024-08-29
+C0140,Victor,Kiptoo,Female,Mombasa,Coast,2025-03-26
+C0141,Nancy,Kimani,Male,Thika,Central,2024-06-29
+C0142,Kevin,Otieno,Male,Mombasa,Coast,2024-06-02
+C0143,Nancy,Njoroge,Male,Machakos,Eastern,2023-04-19
+C0144,Faith,Chebet,Male,Kisumu,Nyanza,2024-03-21
+C0145,Nancy,Muli,Male,Machakos,Eastern,2024-04-21
+C0146,Hassan,Muli,Female,Thika,Central,2025-05-22
+C0147,Hassan,Kiptoo,Male,Eldoret,Rift Valley,2024-04-06
+C0148,Amina,Abdi,Male,Nyeri,Central,2023-12-11
+C0149,George,Njoroge,Male,Kisumu,Nyanza,2024-05-14
+C0150,Wanjiku,Chebet,Male,Thika,Central,2023-10-14
+C0151,George,Mwangi,Female,Nairobi,Nairobi,2024-06-13
+C0152,Tracy,Kiptoo,Female,Nyeri,Central,2024-05-15
+C0153,Ruth,Abdi,Female,Machakos,Eastern,2024-10-23
+C0154,Hassan,Ochieng,Female,Mombasa,Coast,2023-10-29
+C0155,Victor,Njoroge,Male,Eldoret,Rift Valley,2024-11-10
+C0156,Tracy,Njoroge,Male,Thika,Central,2024-03-11
+C0157,James,Kamau,Female,Machakos,Eastern,2023-10-05
+C0158,George,Njoroge,Female,Mombasa,Coast,2025-01-08
+C0159,George,Chebet,Male,Kisumu,Nyanza,2023-07-16
+C0160,Victor,Kiptoo,Male,Eldoret,Rift Valley,2025-01-11
+C0161,George,Kamau,Female,Mombasa,Coast,2025-05-02
+C0162,James,Otieno,Female,Thika,Central,2023-07-03
+C0163,Brian,Mutua,Male,Eldoret,Rift Valley,2023-02-16
+C0164,Ruth,Mwangi,Female,Kisumu,Nyanza,2024-10-15
+C0165,Ruth,Abdi,Male,Eldoret,Rift Valley,2024-04-25
+C0166,Irene,Muli,Male,Kisumu,Nyanza,2023-02-22
+C0167,Carol,Ochieng,Male,Mombasa,Coast,2025-04-21
+C0168,Brian,Kariuki,Female,Mombasa,Coast,2024-08-13
+C0169,Hassan,Mwangi,Male,Eldoret,Rift Valley,2023-03-29
+C0170,Samuel,Ochieng,Male,Nakuru,Rift Valley,2025-03-05
+C0171,Victor,Ochieng,Male,Machakos,Eastern,2023-11-01
+C0172,David,Kiptoo,Female,Nairobi,Nairobi,2024-09-16
+C0173,Carol,Kariuki,Female,Nakuru,Rift Valley,2023-09-28
+C0174,Carol,Kariuki,Female,Kisumu,Nyanza,2024-07-19
+C0175,Wanjiku,Abdi,Male,Nyeri,Central,2024-04-06
+C0176,James,Chebet,Male,Nairobi,Nairobi,2023-08-26
+C0177,Hassan,Achieng,Male,Machakos,Eastern,2023-03-14
+C0178,David,Mutua,Female,Nakuru,Rift Valley,2024-03-11
+C0179,Esther,Mwangi,Female,Kisumu,Nyanza,2023-09-30
+C0180,James,Maina,Male,Kisumu,Nyanza,2025-03-22
+C0181,Peter,Chebet,Male,Machakos,Eastern,2023-05-08
+C0182,Samuel,Mutua,Male,Nyeri,Central,2023-10-06
+C0183,Wanjiku,Otieno,Male,Machakos,Eastern,2023-03-24
+C0184,Irene,Otieno,Female,Thika,Central,2024-09-10
+C0185,Victor,Maina,Female,Nakuru,Rift Valley,2024-11-21
+C0186,Brian,Kiptoo,Female,Eldoret,Rift Valley,2024-08-13
+C0187,Peter,Achieng,Male,Machakos,Eastern,2024-06-15
+C0188,Nancy,Kimani,Male,Kisumu,Nyanza,2024-08-22
+C0189,Linda,Ochieng,Male,Mombasa,Coast,2024-04-26
+C0190,David,Muli,Female,Thika,Central,2024-11-17
+C0191,Ruth,Kamau,Male,Thika,Central,2024-02-26
+C0192,Carol,Njoroge,Male,Nairobi,Nairobi,2024-04-10
+C0193,Moses,Muli,Female,Thika,Central,2023-04-29
+C0194,Brian,Wambui,Male,Machakos,Eastern,2024-02-28
+C0195,Peter,Kiptoo,Female,Machakos,Eastern,2024-10-02
+C0196,Tracy,Kariuki,Male,Nakuru,Rift Valley,2023-10-01
+C0197,Ruth,Mwangi,Female,Machakos,Eastern,2024-12-16
+C0198,Faith,Kamau,Female,Nakuru,Rift Valley,2024-12-27
+C0199,Hassan,Muli,Female,Nyeri,Central,2023-04-06
+C0200,Esther,Abdi,Male,Machakos,Eastern,2023-05-01
+C0201,Ruth,Abdi,Female,Eldoret,Rift Valley,2024-03-01
+C0202,Esther,Ochieng,Female,Machakos,Eastern,2024-07-18
+C0203,Carol,Kamau,Male,Kisumu,Nyanza,2025-06-03
+C0204,Samuel,Kamau,Female,Thika,Central,2025-03-17
+C0205,James,Muli,Male,Eldoret,Rift Valley,2025-01-13
+C0206,Tracy,Abdi,Male,Kisumu,Nyanza,2024-04-02
+C0207,Tracy,Ochieng,Male,Thika,Central,2024-07-19
+C0208,George,Chebet,Female,Thika,Central,2025-06-09
+C0209,Nancy,Otieno,Male,Nyeri,Central,2023-08-28
+C0210,Moses,Ochieng,Female,Machakos,Eastern,2024-12-23
+C0211,Esther,Mutua,Male,Machakos,Eastern,2023-02-07
+C0212,Peter,Mwangi,Male,Mombasa,Coast,2025-06-14
+C0213,Esther,Ochieng,Female,Nairobi,Nairobi,2025-01-09
+C0214,Irene,Njoroge,Male,Mombasa,Coast,2024-04-25
+C0215,Kevin,Muli,Male,Mombasa,Coast,2025-05-22
+C0216,Ruth,Muli,Female,Thika,Central,2024-10-03
+C0217,James,Wambui,Female,Mombasa,Coast,2023-08-29
+C0218,David,Abdi,Female,Nyeri,Central,2023-04-11
+C0219,Brian,Njoroge,Female,Eldoret,Rift Valley,2023-01-30
+C0220,Linda,Ochieng,Female,Eldoret,Rift Valley,2024-01-03
+C0221,Nancy,Maina,Female,Nakuru,Rift Valley,2024-06-27
+C0222,Carol,Maina,Male,Kisumu,Nyanza,2023-06-29
+C0223,Victor,Kariuki,Female,Nakuru,Rift Valley,2024-05-24
+C0224,Irene,Abdi,Male,Machakos,Eastern,2024-10-15
+C0225,Peter,Achieng,Male,Nairobi,Nairobi,2025-04-03
+C0226,Peter,Njoroge,Male,Kisumu,Nyanza,2023-03-17
+C0227,Irene,Abdi,Male,Nyeri,Central,2024-12-07
+C0228,Ruth,Mwangi,Female,Nakuru,Rift Valley,2024-01-29
+C0229,Linda,Maina,Male,Nyeri,Central,2024-08-08
+C0230,Moses,Kamau,Female,Eldoret,Rift Valley,2023-01-23
+C0231,Ruth,Muli,Male,Nairobi,Nairobi,2024-09-12
+C0232,Linda,Wambui,Female,Nakuru,Rift Valley,2024-09-13
+C0233,Esther,Kimani,Female,Eldoret,Rift Valley,2024-11-25
+C0234,Peter,Otieno,Male,Nairobi,Nairobi,2023-11-13
+C0235,James,Njoroge,Male,Kisumu,Nyanza,2023-04-03
+C0236,Esther,Kiptoo,Male,Kisumu,Nyanza,2023-07-25
+C0237,Faith,Kamau,Male,Eldoret,Rift Valley,2025-04-30
+C0238,Kevin,Kiptoo,Female,Eldoret,Rift Valley,2025-02-03
+C0239,Esther,Kiptoo,Female,Machakos,Eastern,2023-03-19
+C0240,Tracy,Njoroge,Female,Nyeri,Central,2025-05-16
+C0241,Irene,Mutua,Female,Nyeri,Central,2023-01-15
+C0242,Irene,Maina,Male,Machakos,Eastern,2024-01-13
+C0243,Hassan,Abdi,Female,Thika,Central,2023-04-21
+C0244,Hassan,Kimani,Female,Thika,Central,2024-09-16
+C0245,James,Kimani,Male,Machakos,Eastern,2024-12-18
+C0246,Brian,Otieno,Male,Mombasa,Coast,2023-05-24
+C0247,David,Wambui,Female,Machakos,Eastern,2023-04-29
+C0248,Linda,Kimani,Male,Nyeri,Central,2024-04-09
+C0249,David,Muli,Male,Kisumu,Nyanza,2024-02-29
+C0250,Brian,Chebet,Male,Nyeri,Central,2023-10-14
